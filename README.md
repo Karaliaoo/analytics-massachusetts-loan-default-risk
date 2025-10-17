@@ -4,7 +4,7 @@ Objectives:
 * Quantify how credit quality (FICO, grade) and capacity-to-repay (DTI, term) drive default probability and pricing.
 * Test whether community-level conditions (income, age structure) add incremental signal to borrower-level risk.
 
-Key Findings:
+**Key Findings**:
 * Default risk declines monotonically with higher FICO and better grades, and 60-month terms consistently carry higher PD than 36-month terms.
 * Interest rates are inversely related to FICO and grade, indicating broadly consistent risk-based pricing.
 * Employment length shows weak association with income, while lower local median household income areas exhibit higher delinquency rates.
