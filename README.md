@@ -1,6 +1,7 @@
 # Loan Default Rates in Massachusetts - Exploratory Data Analysis
 Contributors: Kara Liao, Roberto Albornoz, Sai Leela Rahul Pujari, Jungcheng (Leo) Zhu, Sarah Dsouza
-Objectives:
+
+**Objectives**:
 * Build a Massachusetts loan-level risk view by combining LendingClub 2019 borrower features with local ACS socioeconomic indicators at the ZIP3 level.
 * Quantify how credit quality (FICO, grade) and capacity-to-repay (DTI, term) drive default probability and pricing.
 * Test whether community-level conditions (income, age structure) add incremental signal to borrower-level risk.
