@@ -1,4 +1,4 @@
-#Loan Default Rates in Massachusetts - Exploratory Data Analysis
+# Loan Default Rates in Massachusetts - Exploratory Data Analysis
 ---
 Contributors: Kara Liao, Roberto Albornoz, Sai Leela Rahul Pujari, Jungcheng (Leo) Zhu, Sarah Dsouza
 Objectives:
