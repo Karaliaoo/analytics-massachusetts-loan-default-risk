@@ -1,5 +1,4 @@
 # Loan Default Rates in Massachusetts - Exploratory Data Analysis
----
 Contributors: Kara Liao, Roberto Albornoz, Sai Leela Rahul Pujari, Jungcheng (Leo) Zhu, Sarah Dsouza
 Objectives:
 * Build a Massachusetts loan-level risk view by combining LendingClub 2019 borrower features with local ACS socioeconomic indicators at the ZIP3 level.
